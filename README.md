@@ -13,7 +13,6 @@ The whole project was made in Spanish because it's my native language.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
