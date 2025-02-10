@@ -22,8 +22,6 @@ List any software or tools required to run your project. For example:
 - Python 3.x
 - Pandas library
 - Matplotlib library
-- Colorama library
-- Pyfiglet library
 
 ### Steps
 1. Clone the repository:
